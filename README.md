@@ -9,13 +9,13 @@
 
 ## Install
 
-	This project requires python 3.6 or anyother higher versions of python, along with these libraries
+This project requires python 3.6 or anyother higher versions of python, along with these libraries
 
-     * NumPy
-     * Pandas
-     * matplotlib
-     * scikit-learn
-     * seaborn
+  * NumPy
+  * Pandas
+  * matplotlib
+  * scikit-learn
+  * seaborn
 
 You also need a software to run this python notebook "Jupyter Notebook". It is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and moreincluded.
 
