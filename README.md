@@ -22,8 +22,8 @@ You also need a software to run this python notebook "Jupyter Notebook". It is h
 
 
 ## Brief Details About The Features 
- ⋅⋅***objid** - Object Identifier
- ⋅⋅* **ra** - J2000 Right Ascension (r-band)-
+   * **objid** - Object Identifier
+   * **ra** - J2000 Right Ascension (r-band)-
  ⋅⋅* **dec** - J2000 Declination (r-band)
  ⋅⋅* **u(ultraviolet)** -  better of DeV/Exp magnitude fit
  ⋅⋅* **g(green)** - better of DeV/Exp magnitude fit
