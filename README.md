@@ -18,7 +18,7 @@ This project requires python 3.6 or anyother higher versions of python, along wi
   * scikit-learn
   * seaborn
 
-You also need a software to run this python notebook "Jupyter Notebook". It is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and moreincluded.
+You also need a software to run this python notebook "Jupyter Notebook". It is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
 
 
 
@@ -45,9 +45,11 @@ The table results from a query which joins two tables (actuaclly views): "PhotoO
 
 ## Desired Target
 
-  * **Class** - galaxy, star or quasar qbject
+  * **Class** - galaxy, star or quasar object
 ### Further information on SDSS images and their attributes:
 (http://www.sdss3.org/dr9/imaging/imaging_basics.php)
+
+
 (http://www.sdss3.org/dr8/glossary.php)
 
 
