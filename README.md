@@ -1,4 +1,5 @@
 # Sloan Sky Servey
+## classification of stars, Galaxies and Quasar
 
    "The [Sloan Digital Sky Survey](https://www.kaggle.com/lucidlenn/sloan-digital-sky-survey/) has created the most detailed three-dimensional maps of the Universe ever made, with deep multi-color images of one third of the sky, and spectra for more than three million astronomical objects"
 
@@ -21,7 +22,9 @@ You also need a software to run this python notebook "Jupyter Notebook". It is h
 
 
 
-## Brief Details About The Features 
+## Feature Description
+The table results from a query which joins two tables (actuaclly views): "PhotoObj" which contains photometric data and "SpecObj" which contains spectral data.
+
    * **objid** - Object Identifier
    * **ra** - J2000 Right Ascension (r-band)-
    * **dec** - J2000 Declination (r-band)
@@ -36,13 +39,17 @@ You also need a software to run this python notebook "Jupyter Notebook". It is h
    * **field** - Field number
    * **specobjid** -  Object Identifier
    * **redshift** - Final Redshift
-   * **plate** - Final Redshift
-   * **mjd** - Final Redshift
+   * **plate** - plate number
+   * **mjd** - Modified Julian Date, used to indicate the date that a given piece of SDSS data (image or spectrum) was taken.
    * **fiberid** - fiber ID
 
 ## Desired Target
 
   * **Class** - galaxy, star or quasar qbject
+### Further information on SDSS images and their attributes:
+(http://www.sdss3.org/dr9/imaging/imaging_basics.php)
+(http://www.sdss3.org/dr8/glossary.php)
+
 
 ## Models Trained On
 
